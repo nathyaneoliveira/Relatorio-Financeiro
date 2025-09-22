@@ -55,6 +55,3 @@ python relatorios_financeiros.py
 ## Licença
 
 Uso pessoal.
-
-Quer que eu faça essa versão?
-```
